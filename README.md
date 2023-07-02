@@ -1,30 +1,71 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
+<a name="readme-top"></a>
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+<div align="center">
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+  <img src="" alt="logo" width="140"  height="auto" />
+  <br/>
 
-## Description
+  <h3><b>Build bookmark API with NestJS</b></h3>
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Features](#features)
+  - [🛠 Built With](#built-with)
+  - [🛠 Kanban board](#kanban-board)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#🔭-future-features)
+- [🤝 Contributing](#🤝-contributing)
+- [🙏 Acknowledgments](#🙏-acknowledgments)
+- [📝 License](#📝-license)
+
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Mentor app <a name="about-project"></a>
+
+This App allow users book reservations with their mentors.
+This repo host front-end app. [Click here](https://github.com/hakichris/mentor-back-end) to access the back-end app
+
+## 🔭 Features <a name="features"></a>
+- [ ] **Sign in && Sigup**
+- [ ] **Make bookmark**
+
+
+## 🛠 Built With <a name="built-with"></a>
+
+* NestJS
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+To see the demo version, you can <a href=""> 
+
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+- IDE(code editor) like: **Vscode**, **Sublime**, etc. 
+- [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/)
+
+### Setup
 
 ## Installation
 
@@ -58,16 +99,57 @@ $ yarn run test:e2e
 $ yarn run test:cov
 ```
 
-## Support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+<!-- AUTHORS -->
 
-## Stay in touch
+## 👥 Authors <a name="authors"></a>
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+👤 **Hien Phan**
+- GitHub: [@hienphan0111](https://github.com/hienphan0111)
+- Twitter: [@hienphan0111](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hien-phan-61097b256/)
 
-## License
 
-Nest is [MIT licensed](LICENSE).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+<!-- FAQ (optional) -->
+
+## 📝 License <a name="license"></a>
+
+This project is contributed under [GNU 3.0](./LICENSE.md) licensed
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Redux.js]: https://img.shields.io/badge/-Redux-20232A?style=for-the-badge&logo=redux&logoColor=violet
+[Redux-url]: http://redux.js.org
+[TailwindCSS]: https://img.shields.io/badge/-TailwindCSS-20232A?style=for-the-badge&logo=tailwind&logoColor=61DAFB
+[Tailwind-url]: http://tailwind.org
