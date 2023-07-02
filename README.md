@@ -36,8 +36,7 @@
 
 # 📖 Mentor app <a name="about-project"></a>
 
-This App allow users book reservations with their mentors.
-This repo host front-end app. [Click here](https://github.com/hakichris/mentor-back-end) to access the back-end app
+This App build an API for bookmark
 
 ## 🔭 Features <a name="features"></a>
 - [ ] **Sign in && Sigup**
